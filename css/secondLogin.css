@@ -1,0 +1,19 @@
+#logo{
+    height: 200px;
+}
+.form-wrap .wholepage{
+    background-color: lightgrey;
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 600 !important;
+    margin-top: 130px;
+    padding: 18px;
+    max-width: 30rem;
+}
+.form-wrap{
+    padding-top: 50px;
+    padding-left: 35%;
+}
